@@ -41,7 +41,8 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://img.shields.io/wordpress/plugin/:interval/:slug" />
 
-![Wordpress](
+![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/:interval/:slug)
+
 
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
