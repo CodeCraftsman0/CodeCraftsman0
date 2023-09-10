@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 Hello! I'm saurabh and I'm passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. What sets me apart as a front-end developer is my dedication to staying up-to-date with the latest technologies and design trends. I have a deep understanding of HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0][youtube]".
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 
 
 ### 🧰 Languages and Tools
@@ -39,8 +42,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/174/174881.png?uid=R106918481&ga=GA1.1.1468290644.1693901475" />
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br />
 
 #
