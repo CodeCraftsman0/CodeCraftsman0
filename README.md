@@ -36,9 +36,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-
-<img align="left" alt="Bootstarp" width="30px" style="padding-right:10px;" src="https://webapps1.chicago.gov/cdn/Bootstrap-4.0.0-beta.2/assets/brand/bootstrap-solid.svg" />
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/174/174881.png?uid=R106918481&ga=GA1.1.1468290644.1693901475" />
 
