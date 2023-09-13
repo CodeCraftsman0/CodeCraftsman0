@@ -42,18 +42,17 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
-#
-
-<details>
- <summary><h3>👨‍💻 Saurabh Coding Journey</h3></summary>
-    HI ALL, I COMPLETED A DIPLOMA FROM SILIGURI GOVERNMENT POLYTECHNIC COLLEGE AND LATER I COMPLETED MY BACHELOR'S DEGREE FROM CAMELLIA SCHOOL OF ENGINEERING AND TECHNOLOGY COLLEGE AFTER THAT, I STARTED MY JOURNEY IN WEB DEVELOPMENT AND I WANT TO TAKE CARE OF IT. I SPECIALIZE IN FRONT-END DEVELOPMENT AND AM EXPERIENCED WITH ALL STAGES OF THE DEVELOPMENT CYCLE FOR DYNAMIC WEB PROJECTS. WELL-VERSED IN NUMEROUS PROGRAMMING LANGUAGES INCLUDING CSS, HTML, JAVASCRIPT, BOOTSTRAP, PHP, MYSQL, JQUERY, AJAX, NODE JS, AND WORDPRESS AND I'M LOOKING FOR A JOB AND READY TO FACE NEW CHALLENGES.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecraftsman0&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsman0" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraftsman0&show_icons=true&locale=en&layout=compact" alt="codecraftsman0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&locale=en" alt="codecraftsman0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraftsman0&" alt="codecraftsman0" /></p>
+
+<details>
+ <summary><h3>👨‍💻 Saurabh Coding Journey</h3></summary>
+    HI ALL, I COMPLETED A DIPLOMA FROM SILIGURI GOVERNMENT POLYTECHNIC COLLEGE AND LATER I COMPLETED MY BACHELOR'S DEGREE FROM CAMELLIA SCHOOL OF ENGINEERING AND TECHNOLOGY COLLEGE AFTER THAT, I STARTED MY JOURNEY IN WEB DEVELOPMENT AND I WANT TO TAKE CARE OF IT. I SPECIALIZE IN FRONT-END DEVELOPMENT AND AM EXPERIENCED WITH ALL STAGES OF THE DEVELOPMENT CYCLE FOR DYNAMIC WEB PROJECTS. WELL-VERSED IN NUMEROUS PROGRAMMING LANGUAGES INCLUDING CSS, HTML, JAVASCRIPT, BOOTSTRAP, PHP, MYSQL, JQUERY, AJAX, NODE JS, AND WORDPRESS AND I'M LOOKING FOR A JOB AND READY TO FACE NEW CHALLENGES.
+
 [YouTube]: https://www.youtube.com/@Artonad
 
 
