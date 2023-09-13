@@ -24,31 +24,18 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 
 
-<a href="https://www.Facebook.com/">
+<a href="https://www.facebook.com/saurabhsantraiamok/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Logo">
 </a>
-
-<a href="https://www.LinkedIn.com/">
+<a href="https://www.linkedin.com/in/saurabh-santra-4b2b0a164/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
 </a>
-
-
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/c/Artonad">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Logo">
 </a>
-
-
-<a href="https://www.indeed.com/">
+<a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage&_ga=2.255864898.899499604.1694632849-708376156.1694138823">
   <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Logo">
 </a>
-
-
-
-
-
-
-
-
 
 ### 🧰 Languages and Tools
 
