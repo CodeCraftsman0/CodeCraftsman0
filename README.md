@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # 🏄‍♂️ CodeCraftsman0
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
  
 **`Digit CodeCraftsman0 (Frontend Developer)`**
 
@@ -41,6 +39,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left"> <a href="https://nodejs.org" target="_blank" rel="no-referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
@@ -57,6 +56,8 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 [YouTube]: https://www.youtube.com/@Artonad
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/CodeCraftsman0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeCraftsman0" /></a><a href="https://ko-fi.com/CodeCraftsman0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CodeCraftsman0" /></a></p><br><br>
 
 
 
