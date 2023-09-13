@@ -27,7 +27,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecraftsman0&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsman0" /> </p>
 ### 🧰 Languages and Tools
 
 
