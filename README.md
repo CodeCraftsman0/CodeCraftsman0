@@ -56,7 +56,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&locale=en" alt="codecraftsman0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraftsman0&" alt="codecraftsman0" /></p>
+
 
 <details>
  <summary><h3>👨‍💻 Saurabh Coding Journey</h3></summary>
