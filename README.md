@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 <!-- Project Section -->
 <!-- GitHub Contribution Calendar Link -->
-## GitHub Contribution Calendar
-
-Check out my GitHub contribution calendar to see my activity:
-
-[![GitHub Contribution Calendar](https://github.com/users/codecraftsman0/contributions)](https://github.com/users/codecraftsman0/contributions)
-
 
 
 
