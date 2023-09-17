@@ -21,6 +21,13 @@ I'm a [Your Profession/Developer/Designer] on a mission to create amazing digita
 
 📱 [Project 3](URL_TO_PROJECT3) - Yet another cool project with a brief intro.
 
+<!-- Contribution Calendar -->
+## Contribution Calendar:
+
+I'm proud of my GitHub contributions! Check out my contribution calendar below:
+
+[![Contribution Calendar](URL_TO_CONTRIBUTION_CALENDAR)](URL_TO_YOUR_GITHUB_PROFILE)
+
 <!-- Let's Connect -->
 ## Let's Connect:
 
