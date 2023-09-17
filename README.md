@@ -1,61 +1,83 @@
-<!-- Title -->
-# Hi there! 👋 I'm [Your Name]
+### Hlw there 👋
 
-<!-- Banner -->
-![Custom Banner Image](URL_TO_BANNER_IMAGE)
+<!--
+**CodeCraftsman0/CodeCraftsman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- Introduction -->
-I'm a [Your Profession/Developer/Designer] on a mission to create amazing digital experiences. Based in [Your Location], I blend creativity and technology to craft innovative solutions.
+Here are some ideas to get you started:
 
-<!-- Skills Badges -->
-## Skills & Tools:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-[![Tech1](URL_TO_TECH1_ICON)](LINK_TO_TECH1) [![Tech2](URL_TO_TECH2_ICON)](LINK_TO_TECH2) [![Tech3](URL_TO_TECH3_ICON)](LINK_TO_TECH3)
+# 🏄‍♂️ CodeCraftsman0
+ 
+**`Digit CodeCraftsman0 (Frontend Developer)`**
 
-<!-- Current Projects -->
-## Current Projects:
+Hello! I'm saurabh and I'm passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. What sets me apart as a front-end developer is my dedication to staying up-to-date with the latest technologies and design trends. I have a deep understanding of HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0][youtube]".
 
-🚀 I'm currently working on [Project 1](URL_TO_PROJECT1) - A brief description of the project.
 
-🌐 [Project 2](URL_TO_PROJECT2) - Another exciting project with its own description.
 
-📱 [Project 3](URL_TO_PROJECT3) - Yet another cool project with a brief intro.
 
-<!-- Contribution Calendar -->
-## Contribution Calendar:
 
-I'm proud of my GitHub contributions! Check out my contribution calendar below:
 
-[![Contribution Calendar](URL_TO_CONTRIBUTION_CALENDAR)](URL_TO_YOUR_GITHUB_PROFILE)
 
-<!-- Let's Connect -->
-## Let's Connect:
 
-- 💬 Chat with me on [Twitter](https://twitter.com/YourTwitterHandle).
-- 📧 Shoot me an [Email](mailto:youremail@example.com).
-- 🌐 Explore my work on [My Portfolio](https://yourportfolio.com).
 
-<!-- Fun Facts -->
-## Fun Facts About Me:
 
-- 🌍 I've explored [Number] countries.
-- 📚 Currently diving into [Book Title].
-- 🎮 I'm a pro at [Favorite Game].
 
-<!-- GitHub Stats -->
-## GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
-<!-- Top Languages -->
-## Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
 
-<!-- GitHub Trophies -->
-## GitHub Trophies:
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://www.facebook.com/saurabhsantraiamok/">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Logo">
+</a>
+<a href="https://www.linkedin.com/in/saurabh-santra-4b2b0a164/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
+</a>
+<a href="https://www.youtube.com/c/Artonad">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Logo">
+</a>
+<a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage&_ga=2.255864898.899499604.1694632849-708376156.1694138823">
+  <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Logo">
+</a>
 
-<!-- Footer -->
-## Thanks for visiting my profile! Let's collaborate and create something amazing together.
+### 🧰 Languages and Tools
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecraftsman0&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsman0" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraftsman0&show_icons=true&locale=en&layout=compact" alt="codecraftsman0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&locale=en" alt="codecraftsman0" /></p>
+
+
+
+<details>
+ <summary><h3>👨‍💻 Saurabh Coding Journey</h3></summary>
+    HI ALL, I COMPLETED A DIPLOMA FROM SILIGURI GOVERNMENT POLYTECHNIC COLLEGE AND LATER I COMPLETED MY BACHELOR'S DEGREE FROM CAMELLIA SCHOOL OF ENGINEERING AND TECHNOLOGY COLLEGE AFTER THAT, I STARTED MY JOURNEY IN WEB DEVELOPMENT AND I WANT TO TAKE CARE OF IT. I SPECIALIZE IN FRONT-END DEVELOPMENT AND AM EXPERIENCED WITH ALL STAGES OF THE DEVELOPMENT CYCLE FOR DYNAMIC WEB PROJECTS. WELL-VERSED IN NUMEROUS PROGRAMMING LANGUAGES INCLUDING CSS, HTML, JAVASCRIPT, BOOTSTRAP, PHP, MYSQL, JQUERY, AJAX, NODE JS, AND WORDPRESS AND I'M LOOKING FOR A JOB AND READY TO FACE NEW CHALLENGES.
+
+[YouTube]: https://www.youtube.com/@Artonad
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/CodeCraftsman0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeCraftsman0" /></a><a href="https://ko-fi.com/CodeCraftsman0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CodeCraftsman0" /></a></p><br><br>
+
+
+
