@@ -34,12 +34,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 
 
-<!-- 3D Contribution Graph -->
-## 3D Contribution Graph
 
-Check out my 3D contribution graph:
-
-[![3D Contribution Graph](https://grass-graph.sh/brockgr/2020)](https://grass-graph.sh/brockgr/2020)
 
 
 
