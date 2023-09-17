@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Project Section -->
-## My Projects
+<!-- GitHub Contribution Calendar Link -->
+## GitHub Contribution Calendar
 
-Here are some of my featured projects:
+Check out my GitHub contribution calendar to see my activity:
 
-1. [Project 1](URL_TO_PROJECT1) - *Description of Project 1.*
-2. [Project 2](URL_TO_PROJECT2) - *Description of Project 2.*
-3. [Project 3](URL_TO_PROJECT3) - *Description of Project 3.*
+[![GitHub Contribution Calendar](https://github.com/users/codecraftsman0/contributions)](https://github.com/users/codecraftsman0/contributions)
 
-<!-- GitHub Trophies Section -->
-## GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
