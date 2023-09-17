@@ -85,6 +85,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 ## GitHub Trophies:
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codecraftsman0&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![snake gif](https://github.com/codecraftsman0/codecraftsman0/blob/output/github-contribution-grid-snake.gif)
 
 
 <h3 align="left">Support:</h3>
