@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Project Section -->
+## My Projects
+
+Here are some of my featured projects:
+
+1. [Project 1](URL_TO_PROJECT1) - *Description of Project 1.*
+2. [Project 2](URL_TO_PROJECT2) - *Description of Project 2.*
+3. [Project 3](URL_TO_PROJECT3) - *Description of Project 3.*
+
+<!-- GitHub Trophies Section -->
+## GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 # 🏄‍♂️ CodeCraftsman0
  
