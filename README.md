@@ -63,8 +63,8 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecraftsman0&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsman0" /> </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraftsman0&show_icons=true&locale=en&layout=compact" alt="codecraftsman0" /></p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraftsman0&show_icons=true&locale=en&layout=compact" alt="codecraftsman0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&locale=en" alt="codecraftsman0" /></p>
 
