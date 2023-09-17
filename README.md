@@ -75,7 +75,11 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 [YouTube]: https://www.youtube.com/@Artonad
 
-<p>[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<!-- GitHub Trophies -->
+## GitHub Trophies:
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodeCraftsman0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeCraftsman0" /></a><a href="https://ko-fi.com/CodeCraftsman0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CodeCraftsman0" /></a></p><br><br>
