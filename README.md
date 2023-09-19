@@ -54,25 +54,11 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 <br />
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codecraftsman0&layout=compact)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=radical" /></p> -->
-
-
-
-# github-calendar.js
-
- [![Version](https://img.shields.io/npm/v/github-calendar.svg)](https://www.npmjs.com/package/github-calendar) [![Downloads](https://img.shields.io/npm/dt/github-calendar.svg)](https://www.npmjs.com/package/github-calendar)
-
-
-
-
-
-
-
-
 
 
 <details>
