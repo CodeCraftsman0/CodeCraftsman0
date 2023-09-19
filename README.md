@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Project Section -->
 <!-- GitHub Contribution Calendar Link -->
 
-
+![Background Image](https://example.com/your-image.jpg)
 
 
 # 🏄‍♂️ CodeCraftsman0
