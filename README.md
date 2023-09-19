@@ -54,8 +54,11 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraftsman0&show_icons=true&locale=en&layout=compact" alt="codecraftsman0" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=radical" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=radical" /></p> -->
 
 
 
@@ -64,9 +67,6 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
  [![Version](https://img.shields.io/npm/v/github-calendar.svg)](https://www.npmjs.com/package/github-calendar) [![Downloads](https://img.shields.io/npm/dt/github-calendar.svg)](https://www.npmjs.com/package/github-calendar)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
 
 
 
