@@ -67,12 +67,11 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraftsman0&show_icons=true&locale=en&layout=compact" alt="codecraftsman0" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=radical" /></p>
 
-<!-- GitHub Contribution Calendar Link -->
-## GitHub Contribution Calendar
 
-Check out my GitHub contribution calendar to see my activity:
 
-[![GitHub Contribution Calendar](https://github.com/users/YourGitHubUsername/contributions)](https://github.com/users/CodeCraftsman0/contributions)
+# github-calendar.js
+
+ [![Version](https://img.shields.io/npm/v/github-calendar.svg)](https://www.npmjs.com/package/github-calendar) [![Downloads](https://img.shields.io/npm/dt/github-calendar.svg)](https://www.npmjs.com/package/github-calendar)
 
 
 
