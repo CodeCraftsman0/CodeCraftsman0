@@ -1,4 +1,4 @@
-### Hlw there 👋
+### Hlw there 
 
 <!--
 **CodeCraftsman0/CodeCraftsman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
   <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Logo">
 </a>
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
