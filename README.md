@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 <!-- GitHub Contribution Calendar Link -->
 
 
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
 # codecraftsman0
  
 **`Digit CodeCraftsman0 (Frontend Developer)`**
