@@ -28,10 +28,10 @@ I'm a passionate [Your Profession/Developer/Designer] based in [Your Location]. 
 - 📚 Currently diving into [Book Title].
 - 🎮 I'm a pro at [Favorite Game].
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCraftsman0&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsman0&layout=compact)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeCraftsman0&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 Thanks for visiting my profile! Let's collaborate and create something amazing together.
