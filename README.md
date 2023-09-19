@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 **`Digit CodeCraftsman0 (Frontend Developer)`**
 
-Hello! I'm saurabh and I'm passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. What sets me apart as a front-end developer is my dedication to staying up-to-date with the latest technologies and design trends. I have a deep understanding of HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0]".
+Hello! I'm saurabh and passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. My dedication to staying up-to-date with the latest technologies and design trends sets me apart as a front-end developer. I deeply understand HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0]".
 
 <a href="https://www.facebook.com/saurabhsantraiamok/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Logo">
@@ -55,7 +55,7 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 <details>
  <summary><h2>Saurabh Coding Journey</h2></summary>
-   <h5> Hi All, I Completed A Diploma From Siliguri Government Polytechnic College And Later I Completed My Bachelor's Degree From Camellia School Of Engineering And Technology College After That, I Started My Journey In Web Development And I Want To Take Care Of It. I Specialize In Front-end Development And Am Experienced With All Stages Of The Development Cycle For Dynamic Web Projects. Well-versed In Numerous Programming Languages Including Css, Html, Javascript, Bootstrap, Php, Mysql, Jquery, Ajax, Node Js, And Wordpress And I'm Looking For A Job And Ready To Face New Challenges</h5>
+    Hi All, I Completed A Diploma From Siliguri Government Polytechnic College And Later I Completed My Bachelor's Degree From Camellia School Of Engineering And Technology College After That, I Started My Journey In Web Development And I Want To Take Care Of It. I Specialize In Front-end Development And Am Experienced With All Stages Of The Development Cycle For Dynamic Web Projects. Well-versed In Numerous Programming Languages Including CSS, HTML, Javascript, Bootstrap, PHP, Mysql, JQuery, Ajax, Node JS, And WordPress And I'm Looking For A Job And Ready To Face New Challenges.
 
 [YouTube]: https://www.youtube.com/@Artonad
 
@@ -65,9 +65,5 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codecraftsman0&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 ![snake gif](https://github.com/codecraftsman0/codecraftsman0/blob/output/github-contribution-grid-snake.gif)
 
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodeCraftsman0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeCraftsman0" /></a><a href="https://ko-fi.com/CodeCraftsman0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CodeCraftsman0" /></a></p><br><br>
-
-
-
