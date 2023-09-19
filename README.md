@@ -1,4 +1,4 @@
-### Hlw there 
+### Hlw There 
 
 <!--
 **CodeCraftsman0/CodeCraftsman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 
 
-# codecraftsman0
+# CodeCraftsman0
  
 **`Digit CodeCraftsman0 (Frontend Developer)`**
 
-Hello! I'm saurabh and I'm passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. What sets me apart as a front-end developer is my dedication to staying up-to-date with the latest technologies and design trends. I have a deep understanding of HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[codecraftsman0]".
-
+Hello! I'm saurabh and I'm passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. What sets me apart as a front-end developer is my dedication to staying up-to-date with the latest technologies and design trends. I have a deep understanding of HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0]".
 
 <a href="https://www.facebook.com/saurabhsantraiamok/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Logo">
@@ -41,7 +40,6 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 
 ### Languages and Tools
 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,17 +50,12 @@ Hello! I'm saurabh and I'm passionate about bringing digital experiences to life
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codecraftsman0&layout=compact)
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=radical" /></p> -->
-
 
 <details>
  <summary><h2>Saurabh Coding Journey</h2></summary>
-   <h5> HI ALL, I COMPLETED A DIPLOMA FROM SILIGURI GOVERNMENT POLYTECHNIC COLLEGE AND LATER I COMPLETED MY BACHELOR'S DEGREE FROM CAMELLIA SCHOOL OF ENGINEERING AND TECHNOLOGY COLLEGE AFTER THAT, I STARTED MY JOURNEY IN WEB DEVELOPMENT AND I WANT TO TAKE CARE OF IT. I SPECIALIZE IN FRONT-END DEVELOPMENT AND AM EXPERIENCED WITH ALL STAGES OF THE DEVELOPMENT CYCLE FOR DYNAMIC WEB PROJECTS. WELL-VERSED IN NUMEROUS PROGRAMMING LANGUAGES INCLUDING CSS, HTML, JAVASCRIPT, BOOTSTRAP, PHP, MYSQL, JQUERY, AJAX, NODE JS, AND WORDPRESS AND I'M LOOKING FOR A JOB AND READY TO FACE NEW CHALLENGES.</h5>
+   <h5> Hi All, I Completed A Diploma From Siliguri Government Polytechnic College And Later I Completed My Bachelor's Degree From Camellia School Of Engineering And Technology College After That, I Started My Journey In Web Development And I Want To Take Care Of It. I Specialize In Front-end Development And Am Experienced With All Stages Of The Development Cycle For Dynamic Web Projects. Well-versed In Numerous Programming Languages Including Css, Html, Javascript, Bootstrap, Php, Mysql, Jquery, Ajax, Node Js, And Wordpress And I'm Looking For A Job And Ready To Face New Challenges</h5>
 
 [YouTube]: https://www.youtube.com/@Artonad
 
