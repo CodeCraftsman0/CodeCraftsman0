@@ -17,21 +17,9 @@ Here are some ideas to get you started:
 <!-- Project Section -->
 <!-- GitHub Contribution Calendar Link -->
 
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
-<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
-</details>
-
-
 <p>
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
 </p>
-
-
-
-
-
 </br>
 
 
