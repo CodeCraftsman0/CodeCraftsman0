@@ -42,6 +42,8 @@ Hello! I'm saurabh and passionate about bringing digital experiences to life thr
 <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/saurabh-santra-4b2b0a164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+![](https://komarev.com/ghpvc/?username=CodeCraftsman0 )
+
 ### Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,7 +64,7 @@ Hello! I'm saurabh and passionate about bringing digital experiences to life thr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codecraftsman0&layout=compact)
-![](https://komarev.com/ghpvc/?username=CodeCraftsman0 )
+
 
 
 
