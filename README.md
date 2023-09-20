@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 Hello! I'm saurabh and passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. My dedication to staying up-to-date with the latest technologies and design trends sets me apart as a front-end developer. I deeply understand HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0]".
 
 </br>
-
 ![](https://komarev.com/ghpvc/?username=CodeCraftsman0 )
 </br>
+
 <h3>Where to find me</h3>
 <a href="https://www.facebook.com/saurabhsantraiamok/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Logo">
@@ -62,8 +62,6 @@ Hello! I'm saurabh and passionate about bringing digital experiences to life thr
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-
-<p>
 <br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=dark)
