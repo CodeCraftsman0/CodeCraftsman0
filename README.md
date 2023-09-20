@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 **`Digit CodeCraftsman0 (Frontend Developer)`**
 
 Hello! I'm saurabh and passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. My dedication to staying up-to-date with the latest technologies and design trends sets me apart as a front-end developer. I deeply understand HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0]".
-</br>
-![](https://komarev.com/ghpvc/?username=CodeCraftsman0 )
 
+</br>
+
+![](https://komarev.com/ghpvc/?username=CodeCraftsman0 )
+</br>
 <h3>Where to find me</h3>
 <a href="https://www.facebook.com/saurabhsantraiamok/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Logo">
