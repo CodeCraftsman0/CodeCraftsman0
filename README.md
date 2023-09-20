@@ -66,7 +66,8 @@ Hello! I'm saurabh and passionate about bringing digital experiences to life thr
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecraftsman0&show_icons=true&theme=dark) 
+</br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codecraftsman0&layout=compact)
 
 
