@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!-- GitHub Contribution Calendar Link -->
 
 
-<div>
+<p>
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
 <!-- https://cyber.dabamos.de/88x31/hell0.gif -->
-</div>
+</p>
 
 
 
