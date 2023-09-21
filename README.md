@@ -28,13 +28,6 @@ Here are some ideas to get you started:
 
 Hello! I'm saurabh and passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. My dedication to staying up-to-date with the latest technologies and design trends sets me apart as a front-end developer. I deeply understand HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0]".
 
-<!-- ![Profile view](https://komarev.com/ghpvc/?username=CodeCraftsman0) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsman0&hide_progress=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodeCraftsman0&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-
-
-
  <img src="https://komarev.com/ghpvc/?username=CodeCraftsman0" alt="Profile view">
 
 <h3>Where to find me</h3>
