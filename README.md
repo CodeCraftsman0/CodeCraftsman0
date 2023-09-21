@@ -31,7 +31,7 @@ Hello! I'm saurabh and passionate about bringing digital experiences to life thr
 <!-- ![Profile view](https://komarev.com/ghpvc/?username=CodeCraftsman0) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsman0&hide_progress=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeCraftsman01)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodeCraftsman0)](https://git.io/streak-stats)
 
 
 
