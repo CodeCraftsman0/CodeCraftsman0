@@ -30,6 +30,10 @@ Hello! I'm saurabh and passionate about bringing digital experiences to life thr
 
 <!-- ![Profile view](https://komarev.com/ghpvc/?username=CodeCraftsman0) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsman0&hide_progress=true)
+
+
+
  <img src="https://komarev.com/ghpvc/?username=CodeCraftsman0" alt="Profile view">
 
 <h3>Where to find me</h3>
