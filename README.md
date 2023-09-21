@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-
 # CodeCraftsman0
  
 **`Digit CodeCraftsman0 (Frontend Developer)`**
 
 Hello! I'm saurabh and passionate about bringing digital experiences to life through web development. As a front-end developer, I specialize in creating the visual and interactive elements of websites and web applications that users see and interact with directly. My dedication to staying up-to-date with the latest technologies and design trends sets me apart as a front-end developer. I deeply understand HTML, CSS, and JavaScript, and I love exploring WordPress, Bootstrap, and Ajax to build responsive, efficient, and dynamic user interfaces. "[CodeCraftsman0]".
 
-</br>
 <!-- ![Profile view](https://komarev.com/ghpvc/?username=CodeCraftsman0) -->
 
  <img src="https://komarev.com/ghpvc/?username=CodeCraftsman0" alt="Profile view">
